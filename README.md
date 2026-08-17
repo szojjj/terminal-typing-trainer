@@ -1,4 +1,4 @@
-# Minimalistic terminal utility like keybr.com( but without real words ).
+# Minimalistic terminal keyboard typing training( but without real words ).
 
 ## Controls:
 **Esc** - exit the program
